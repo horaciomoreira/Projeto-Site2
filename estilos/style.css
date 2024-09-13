@@ -5,6 +5,31 @@
     font-size: 16px;
 }
 
+h1 {
+    font-size: 2em;
+    color: rgb(1, 1, 24);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(1, 1, 24);
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(1, 1, 24);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 235);
+}
+
 body {
     background-color: aqua;
 
